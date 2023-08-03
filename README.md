@@ -67,3 +67,5 @@ $ npm run test:cov
 ## Backlog
 <p>- Authentication</p>
 <p>- Authentication middleware</p>
+<p>- Swagger</p>
+<p>- Tests</p>
